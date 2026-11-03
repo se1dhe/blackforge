@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://se1dhe.github.io/blackforge/sitemap.xml
